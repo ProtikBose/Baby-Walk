@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1463572951 source:d:\codeblocks\projects\1-1 term project\code of term project.cpp
+	"iGraphics.h"
+	<stdio.h>
+
+1462108168 d:\codeblocks\projects\1-1 term project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1446667744 source:d:\codeblocks\projects\term project 1-1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1465451474 source:d:\codeblocks\projects\term project 1-1\code of term project.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1462108168 d:\codeblocks\projects\term project 1-1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
